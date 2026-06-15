@@ -18,8 +18,8 @@ O projeto foi desenvolvido como Atividade Extensionista do curso de Análise e D
 - Relatório de biodiversidade
 - Relatório de saúde dos corais
 - Área restrita para pesquisadores
-- Registro de observações
 - Persistência de dados com SQLite
+- Registro de observações das espécies
 - Recuperação de dados após reinicialização do sistema
 
 ---
